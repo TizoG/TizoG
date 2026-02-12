@@ -149,13 +149,4 @@ Menos teoría. Más producto.
 
 ---
 
-## 📊 Métricas
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=tizog&show_icons=true&hide_border=true&theme=transparent" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tizog&layout=compact&hide_border=true&theme=transparent" height="150" />
-</p>
-
----
-
-*Always building.*
