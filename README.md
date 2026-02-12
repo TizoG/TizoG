@@ -144,7 +144,7 @@ Menos teoría. Más producto.
 
 ## 📫 Contacto
 
-* GitHub: [https://github.com/TizoG](https://github.com/TizoG)
+* <a href="mailto:ocdev.tizog@gmail.com">Email</a>
 
 
 ---
